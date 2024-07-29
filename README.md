@@ -48,12 +48,20 @@ The solution effectively addresses the problem statement by integrating satellit
 
 ## Appendices
 - Air Quality Prediction
-![Screenshot 2024-07-30 030642](https://github.com/user-attachments/assets/65a17b7d-d693-4a12-af44-2b3a79b9b906)
+
 ![Screenshot 2024-07-30 025949](https://github.com/user-attachments/assets/c4cea1f1-f234-4761-90a6-31d3ede70ca7)
 
+![Screenshot 2024-07-30 030642](https://github.com/user-attachments/assets/65a17b7d-d693-4a12-af44-2b3a79b9b906)
+
+
 - Deforestation Prediction
+
 ![Screenshot 2024-07-30 030016](https://github.com/user-attachments/assets/c35f329a-8979-42f2-b67f-edcf3211f603)
+
 ![Screenshot 2024-07-30 030039](https://github.com/user-attachments/assets/f938b199-203e-4840-b1c2-eb2470b4dd80)
+
 ![Screenshot 2024-07-30 030247](https://github.com/user-attachments/assets/bf20eb0f-462c-4cee-aeda-6618d1fda87f)
+
 ![Screenshot 2024-07-30 030340](https://github.com/user-attachments/assets/ebc0f96a-0e6d-4b6f-b870-767f703396d1)
+
 ![Screenshot 2024-07-30 030405](https://github.com/user-attachments/assets/afa6de54-1a57-4eff-84ac-db0ca9be918e)
